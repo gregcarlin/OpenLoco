@@ -1,11 +1,14 @@
-    8  sudo apt install vim
-   21  sudo apt install git
-   29  sudo apt install cmake
-   31  sudo apt-get install gcc
-   33  sudo apt-get install g++
-   35  sudo apt-get install libsdl2-2.0
-   37  sudo apt-get install libsdl2-dev
-   39  sudo apt-get install libsdl2-mixer-dev
-   41  sudo apt-get install libpng-dev
-   43  sudo apt-get install yaml-cpp
-   44  sudo apt-get install libyaml-cpp-dev
+sudo apt install vim
+sudo apt install git
+sudo apt install cmake
+sudo apt-get install gcc
+sudo apt-get install g++
+sudo apt-get install libsdl2-2.0
+sudo apt-get install libsdl2-dev
+sudo apt-get install libsdl2-mixer-dev
+sudo apt-get install libpng-dev
+sudo apt-get install yaml-cpp
+sudo apt-get install libyaml-cpp-dev
+
+sudo apt install steamcmd
+steamcmd +login gregthegeek1 <password> +force_install_dir /home/greg/Documents/locomotion-steam/ +@sSteamCmdForcePlatformType windows +app_update 356430 +quit
