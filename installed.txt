@@ -1,0 +1,11 @@
+    8  sudo apt install vim
+   21  sudo apt install git
+   29  sudo apt install cmake
+   31  sudo apt-get install gcc
+   33  sudo apt-get install g++
+   35  sudo apt-get install libsdl2-2.0
+   37  sudo apt-get install libsdl2-dev
+   39  sudo apt-get install libsdl2-mixer-dev
+   41  sudo apt-get install libpng-dev
+   43  sudo apt-get install yaml-cpp
+   44  sudo apt-get install libyaml-cpp-dev
